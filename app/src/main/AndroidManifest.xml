@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amanksinghh.puset">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PUSET">
+
+        <activity android:name=".seven.SevenCC"></activity>
+        <activity android:name=".seven.SevenNS" />
+        <activity android:name=".seven.SevenAI" />
+        <activity android:name=".seven.SevenCPS" />
+        <activity android:name=".seven.SevenBDA" />
+        <activity android:name=".seven.SevenDM" />
+        <activity android:name=".third.ThirdOOCUML" />
+        <activity android:name=".third.ThirdDE" />
+        <activity android:name=".third.ThirdPCS" />
+        <activity android:name=".third.ThirdITW" />
+        <activity android:name=".third.ThirdDM" />
+        <activity android:name=".third.ThirdOOPC" />
+        <activity android:name=".third.ThirdDS" />
+        <activity android:name=".third.ThirdCOA" />
+        <activity android:name=".third.ThirdDBMS" />
+        <activity android:name=".timetable.FirstSem" />
+        <activity android:name=".timetable.SevenSem" />
+        <activity android:name=".timetable.ThirdSem" />
+        <activity android:name=".timetable.FifthSem" />
+        <activity android:name=".five.FivePSPE" />
+        <activity android:name=".five.FiveDPP" />
+        <activity android:name=".five.FiveOOPC" />
+        <activity android:name=".five.FiveOOPJAVA" />
+        <activity android:name=".five.FiveIOE" />
+        <activity android:name=".five.FiveSE" />
+        <activity android:name=".five.FiveDAA" />
+        <activity android:name=".five.FLAT" />
+        <activity android:name=".Eighth" />
+        <activity android:name=".Seventh" />
+        <activity android:name=".Sixth" />
+        <activity android:name=".Fifth" />
+        <activity android:name=".Fourth" />
+        <activity android:name=".Third" />
+        <activity android:name=".Second" />
+        <activity android:name=".First" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

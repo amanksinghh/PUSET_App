@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36423036409",
+    "project_id": "puset-ddf70",
+    "storage_bucket": "puset-ddf70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36423036409:android:da885e3fff9f1c7ce16128",
+        "android_client_info": {
+          "package_name": "com.example.puset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36423036409-acg1re2rn24qqe6v1k5m256u99l37lqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3lT2Xfaoj9-wJJiS2Z9cciQ4uBaCur5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36423036409-acg1re2rn24qqe6v1k5m256u99l37lqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
